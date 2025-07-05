@@ -53,7 +53,7 @@ npx http-server .
 
 <div align="center">
 
-![Cyber Hack](https://media.tenor.com/Y5Z0XAg_Yh4AAAAC/dark-tech.gif)
+![Cyber Hack](https://media1.tenor.com/m/70W4LvN834QAAAAd/terminal-dark-the-island.gif)
 ![Terminal Hack](https://media.tenor.com/oDNxeNI2GgAAAAAC/terminal-hack.gif)
 
 </div>
@@ -62,15 +62,11 @@ npx http-server .
 
 ### 👤 CREATOR
 
-```
-dev:    DevAnoynamus  
-gh:     github.com/DevAnoynamus  
-tg:     t.me/anoynamus
-```
+[![Telegram](https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=0000)](https://github.com/devanoynamus)
 
 ---
 
 <div align="center">
-
-<img src="https://media.tenor.com/3bx7z71zDxgAAAAC/hacker-anonymous.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
